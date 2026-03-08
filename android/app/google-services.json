@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "214393173920",
+    "project_id": "recycleapp-6c4e6",
+    "storage_bucket": "recycleapp-6c4e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214393173920:android:d29d5e0ae4d936414e96c5",
+        "android_client_info": {
+          "package_name": "com.example.newtry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214393173920-afpkodhktfq05tlncd3debcu90q85vsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newtry",
+            "certificate_hash": "09b76e4b44a08bc75bc925c8e490b2f0483097c2"
+          }
+        },
+        {
+          "client_id": "214393173920-u0dvprlu05nedgmnqprr9h8cvbthkail.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfvG21sRGuqVFR6jMwL3skwVFlpkRsVck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214393173920-u0dvprlu05nedgmnqprr9h8cvbthkail.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214393173920-dcutidqs2gllpihq4jcjejq60l2a0ncr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newtry"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214393173920:android:70bb9cb38c9bb9754e96c5",
+        "android_client_info": {
+          "package_name": "com.example.waste_management_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214393173920-67j6p5d0d83gqgc77ft6q09lohf4tnkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waste_management_flutter",
+            "certificate_hash": "09b76e4b44a08bc75bc925c8e490b2f0483097c2"
+          }
+        },
+        {
+          "client_id": "214393173920-u0dvprlu05nedgmnqprr9h8cvbthkail.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfvG21sRGuqVFR6jMwL3skwVFlpkRsVck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214393173920-u0dvprlu05nedgmnqprr9h8cvbthkail.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214393173920-dcutidqs2gllpihq4jcjejq60l2a0ncr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newtry"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
