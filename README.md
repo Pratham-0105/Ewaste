@@ -1,4 +1,4 @@
-# newtry
+# Ewaste
 
 A new Flutter project.
 
